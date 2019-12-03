@@ -59,12 +59,18 @@ while(True):
     time.sleep(.1)
 
     text = pyperclip.paste()
-    if text.split() == open("mainscreen.txt").read().split():
+    if text.split() == open("disconnectscreen.txt").read().split():
         # main menu screen
         print("connection lost detected")
         pyautogui.click(x=2871, y=600, clicks=1, button='left')
         time.sleep(.5)
         pyautogui.click(x=2871, y=600, clicks=1, button='left')
+        time.sleep(.5)
+        pyautogui.click(x=2652, y=539, clicks=1, button='left')
+        time.sleep(3)
+    elif text.split() == open("mainscreen.txt").read().split():
+        # main menu screen
+        print("mainscreen detected")
         time.sleep(.5)
         pyautogui.click(x=2652, y=539, clicks=1, button='left')
         time.sleep(3)
