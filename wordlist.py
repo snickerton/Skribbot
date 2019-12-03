@@ -24,7 +24,7 @@ win32gui.EnumWindows(enum_cb, toplist)
 
 wordlist = {}
 
-with open('wordlist.pickle', 'rb') as handle:
+with open('wordlist2.pickle', 'rb') as handle:
     wordlist = pickle.load(handle)
 
 # readable = open("wordlist.txt", "w")
@@ -58,10 +58,11 @@ while(skribNotFound):
 win32gui.SetForegroundWindow(hwin)
 bbox = win32gui.GetWindowRect(hwin)
 
-
+lastWordSaved = "N/A"
 
 while(True):
     print(datetime.datetime.now())
+    print("\t\t LAST WORD SAVED: ", lastWordSaved)
     win32gui.SetForegroundWindow(hwin)
     time.sleep(.1)
     pyautogui.hotkey('ctrl', 'a')
@@ -94,15 +95,20 @@ while(True):
                     if bob not in wordlist:
                         print("NEW WORD FOUND")
                         print(bob)
-                        wordlist[bob] = len(bob)
+                        lastWordSaved = datetime.datetime.now()
+                        wordlist[bob] = 0
             if x.startswith("The word was '"):
                 word = x[14:len(x)-1]
                 if word not in wordlist:
                     print("NEW WORD FOUND")
                     print(word)
-                    wordlist[word] = len(word)
+                    lastWordSaved = datetime.datetime.now()
+                    wordlist[word] = 1
+                else:
+                    print("Logging occurence: ", word)
+                    wordlist[word] = wordlist[word]+1
 
         print("Saving wordlist: ", str(wordlist))
-        with open('wordlist.pickle', 'wb') as handle:
+        with open('wordlist2.pickle', 'wb') as handle:
             pickle.dump(wordlist, handle, protocol=pickle.HIGHEST_PROTOCOL)
         time.sleep(12)

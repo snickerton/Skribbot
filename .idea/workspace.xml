@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="723e8e15-04c5-4bf7-b474-9f4cf87dfb15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wordlist2.pickle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlist.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/wordlist.pickle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wordlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/wordlist.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -128,6 +130,14 @@
       <option name="presentableId" value="Default" />
       <updated>1575361274732</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added readable wordlist">
+      <created>1575399455599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575399455599</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,5 +152,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added readable wordlist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added readable wordlist" />
   </component>
 </project>
