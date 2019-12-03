@@ -1,6 +1,6 @@
 from PIL import ImageGrab
 import win32gui, win32ui, win32con, win32api
-import time
+import time, datetime
 from desktopmagic.screengrab_win32 import (
 	getDisplayRects, saveScreenToBmp, saveRectToBmp, getScreenAsImage,
 	getRectAsImage, getDisplaysAsImages)
@@ -51,6 +51,7 @@ while(skribNotFound):
 
 
 while(True):
+    print(datetime.datetime.now())
     win32gui.SetForegroundWindow(hwin)
     time.sleep(.1)
     pyautogui.hotkey('ctrl', 'a')
@@ -67,13 +68,13 @@ while(True):
         pyautogui.click(x=2871, y=600, clicks=1, button='left')
         time.sleep(.5)
         pyautogui.click(x=2652, y=539, clicks=1, button='left')
-        time.sleep(3)
+        time.sleep(5)
     elif text.split() == open("mainscreen.txt").read().split():
         # main menu screen
         print("mainscreen detected")
         time.sleep(.5)
         pyautogui.click(x=2652, y=539, clicks=1, button='left')
-        time.sleep(3)
+        time.sleep(5)
     else:
         print("in game...")
         lines = text.split("\r\n")
