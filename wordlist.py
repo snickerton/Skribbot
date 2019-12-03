@@ -23,11 +23,20 @@ def enum_cb(hwnd, results):
 win32gui.EnumWindows(enum_cb, toplist)
 
 wordlist = {}
+
 with open('wordlist.pickle', 'rb') as handle:
     wordlist = pickle.load(handle)
 
+# readable = open("wordlist.txt", "w")
+#
+#
+# for x in wordlist.keys():
+#     entry = str(x) +","+ str(wordlist[x])
+#     readable.write(entry+'\n')
+#
+# readable.close()
+
 firefox = [(hwnd, title) for hwnd, title in winlist if 'firefox' in title.lower()]
-# just grab the hwnd for first window matching firefox
 
 hwin = firefox[0]
 
@@ -45,8 +54,9 @@ while(skribNotFound):
             skribNotFound = False;
             break;
     time.sleep(1)
-    win32gui.SetForegroundWindow(hwin)
-    bbox = win32gui.GetWindowRect(hwin)
+
+win32gui.SetForegroundWindow(hwin)
+bbox = win32gui.GetWindowRect(hwin)
 
 
 
