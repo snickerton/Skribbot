@@ -7,7 +7,7 @@ def exportReadable():
     d = {}
     with open('wordlistFinal.pickle', 'rb') as handle:
         d = pickle.load(handle)
-    readable = open("wordlistReadable.txt", "w")
+    readable = open("wordlistReadable.csv", "w")
 
 
     for x in d.keys():

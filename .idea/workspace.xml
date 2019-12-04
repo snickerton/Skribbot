@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="723e8e15-04c5-4bf7-b474-9f4cf87dfb15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wordlistReadable.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mousepos.py" beforeDir="false" afterPath="$PROJECT_DIR$/mousepos.py" afterDir="false" />
@@ -23,12 +24,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1USsLSG0JVlveddgyL4U5Le2INf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tonyz\OneDrive\Documents\Github\skribbot\LEGACY" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\tonyz\OneDrive\Documents\Github\skribbot" />
     </key>
@@ -45,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.wordlist">
+  <component name="RunManager" selected="Python.mousepos">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="skribbot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,8 +118,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.wordlist" />
         <item itemvalue="Python.mousepos" />
+        <item itemvalue="Python.wordlist" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -156,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575422615347</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Cleaned up file sys, added final wordlist readable and such">
+      <created>1575422941344</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575422941344</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,9 +187,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added readable wordlist" />
     <MESSAGE value="Add occurences counting, if drawer occurences is 0, if chosen it is 1" />
     <MESSAGE value="Added occurrence counting for realsies now by tracking sessions and when you're kicked. Also new final wordlist" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added occurrence counting for realsies now by tracking sessions and when you're kicked. Also new final wordlist" />
+    <MESSAGE value="Cleaned up file sys, added final wordlist readable and such" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaned up file sys, added final wordlist readable and such" />
   </component>
 </project>
