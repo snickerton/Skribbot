@@ -175,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575423843533</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added more words">
+      <created>1575506564711</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575506564711</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +204,7 @@
     <MESSAGE value="Add occurences counting, if drawer occurences is 0, if chosen it is 1" />
     <MESSAGE value="Added occurrence counting for realsies now by tracking sessions and when you're kicked. Also new final wordlist" />
     <MESSAGE value="Cleaned up file sys, added final wordlist readable and such" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleaned up file sys, added final wordlist readable and such" />
+    <MESSAGE value="Added more words" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more words" />
   </component>
 </project>
