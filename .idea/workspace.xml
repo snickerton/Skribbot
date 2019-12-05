@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="723e8e15-04c5-4bf7-b474-9f4cf87dfb15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wordlistReadable.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mousepos.py" beforeDir="false" afterPath="$PROJECT_DIR$/mousepos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlistFinal.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/wordlistFinal.pickle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mousepos">
+  <component name="RunManager" selected="Python.wordlist">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="skribbot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,8 +116,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mousepos" />
         <item itemvalue="Python.wordlist" />
+        <item itemvalue="Python.mousepos" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -170,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575422941344</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Cleaned up file sys, added final wordlist readable and such">
+      <created>1575423843533</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575423843533</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
