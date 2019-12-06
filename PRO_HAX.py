@@ -31,6 +31,7 @@ filename = 'wordlistFinal.pickle'
 with open(filename, 'rb') as handle:
     wordlist = pickle.load(handle)
 
+del wordlist['pac man']
 
 masterArr = [[] for x in range(30)]
 # print(masterArr)
@@ -91,9 +92,12 @@ while(True):
             x.sort(key=lambda x: x[1], reverse=True)
 
         continue;
+    formattedWord = currWord.replace("-", " ")
     wordsOfLen = masterArr[len(currWord)]
     print("Word length is: ", len(currWord))
-    regex = re.compile(currWord.replace("_", "."))
+    formattedWord = formattedWord.replace("_", "[a-zA-Z]")
+
+    regex = re.compile(formattedWord)
     newlist = list(filter(lambda x: regex.match(x[0]), wordsOfLen))
     print(newlist)
 
