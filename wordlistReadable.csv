@@ -1,5 +1,5 @@
 marathon,0
-village,1
+village,2
 hut,1
 Morgan Freeman,0
 fast forward,0
@@ -7,12 +7,12 @@ megaphone,0
 canister,0
 Tower of Pisa,0
 toothpaste,0
-lighthouse,0
+lighthouse,1
 donkey,0
-Pink Panther,0
+Pink Panther,1
 periscope,0
 engineer,0
-fingernail,0
+fingernail,2
 Katy Perry,0
 Zorro,0
 America,0
@@ -21,11 +21,11 @@ filter,0
 Popsicle,0
 skin,0
 ceiling,0
-alcohol,0
+alcohol,1
 Argentina,0
 cone,0
 air conditioner,0
-marshmallow,0
+marshmallow,1
 trombone,0
 day,0
 broomstick,0
@@ -53,19 +53,19 @@ iceberg,0
 hill,0
 fox,0
 face,0
-octopus,0
+octopus,2
 Capricorn,0
 timpani,0
 lightning,0
-strawberry,0
+strawberry,1
 Scotland,0
 broccoli,0
 subway,0
-pickle,1
-frog,0
-zoom,0
-sad,1
-hose,0
+pickle,2
+frog,1
+zoom,1
+sad,2
+hose,1
 Batman,0
 iron,0
 telescope,0
@@ -75,7 +75,7 @@ sky,0
 vortex,0
 puddle,0
 anvil,0
-key,0
+key,2
 cheek,0
 tattoo,0
 Garfield,0
@@ -97,19 +97,19 @@ Zeus,0
 peanut,0
 apple seed,0
 landlord,0
-bat,1
+bat,3
 world,0
 night,0
 vaccine,0
 present,0
-sweater,0
-speaker,0
+sweater,1
+speaker,1
 Mickey Mouse,0
 potato,0
 hammer,0
 hen,1
 six pack,0
-bow,0
+bow,1
 surfboard,0
 credit card,0
 well,0
@@ -118,7 +118,7 @@ tea,0
 eye,0
 quicksand,0
 octagon,0
-mop,0
+mop,2
 crab,0
 Thor,0
 midnight,0
@@ -136,7 +136,7 @@ jacket,0
 hurdle,0
 bell,0
 darts,0
-radiation,0
+radiation,1
 garlic,0
 doctor,0
 daisy,0
@@ -159,13 +159,13 @@ patient,0
 robot,0
 chime,0
 apple pie,0
-map,0
+map,1
 Atlantis,0
-fog,0
+fog,1
 Minion,0
 clover,0
-school,0
-blue,0
+school,1
+blue,1
 dead,0
 Peppa Pig,0
 slippery,0
@@ -175,36 +175,36 @@ raccoon,0
 dots,0
 shipwreck,0
 quilt,0
-firehouse,0
+firehouse,1
 cap,0
 fly,1
 SpongeBob,0
 door,0
-frame,0
+frame,1
 tower,0
 tomb,0
 belt,0
 macaroni,0
 Excalibur,0
 stapler,0
-Santa,1
-bench,0
+Santa,2
+bench,1
 guillotine,0
 chainsaw,0
 oil,0
-eyebrow,0
+eyebrow,1
 giraffe,0
 coral,0
 nosebleed,0
-bus stop,0
+bus stop,1
 Gumball,0
 leprechaun,0
 Kermit,0
 volleyball,0
 drum kit,0
 MTV,0
-Japan,0
-nose,0
+Japan,2
+nose,1
 paper,0
 calendar,0
 silver,0
@@ -216,46 +216,46 @@ dress,0
 carnival,0
 Nasa,0
 hamburger,0
-popular,0
+popular,1
 galaxy,0
 nightclub,0
 Mummy,0
 Porky Pig,0
 bubble gum,0
 flush,0
-thumb,0
+thumb,1
 Youtube,0
 bricklayer,0
 comedian,0
 Norway,0
-traffic light,0
+traffic light,1
 cash,0
 antenna,0
 socket,0
 Iron Man,0
-Android,0
+Android,1
 Miniclip,0
 Statue of Liberty,0
 rubber,0
-geyser,1
+geyser,2
 oyster,0
-mouse,0
+mouse,1
 atom,0
 dice,0
 Eminem,0
 pancake,0
-zebra,0
+zebra,1
 raspberry,0
-kazoo,0
+kazoo,2
 worm,0
 breath,0
-knuckle,0
-Samsung,0
+knuckle,1
+Samsung,1
 garbage,0
 rain,0
 airplane,0
 Gandalf,0
-hard hat,0
+hard hat,1
 toothpick,0
 Spiderman,0
 flag,0
@@ -263,18 +263,18 @@ portrait,0
 food,0
 apple,0
 rat,0
-Squidward,0
-metal,0
+Squidward,1
+metal,1
 hip hop,0
-lilypad,0
-stop sign,0
+lilypad,3
+stop sign,1
 spear,0
 pillow fight,0
 monk,0
 zoo,0
 Usain Bolt,0
 dolphin,0
-dream,1
+dream,4
 Egypt,0
 Mr. Meeseeks,0
 poppy,1
@@ -286,7 +286,7 @@ wiggle,0
 wizard,0
 marble,0
 Teletubby,0
-seed,0
+seed,1
 pine,0
 chef,0
 basketball,0
@@ -301,8 +301,8 @@ bleach,0
 King Kong,1
 dinner,0
 smile,0
-weak,0
-whale,0
+weak,1
+whale,1
 Croatia,0
 shallow,0
 diva,0
@@ -321,10 +321,10 @@ ice cream truck,0
 forest,0
 Mexico,0
 teacher,0
-cactus,0
+cactus,2
 overweight,0
 crucible,0
-Daffy Duck,0
+Daffy Duck,1
 treasure,0
 bowling,0
 fruit,0
@@ -354,24 +354,24 @@ forehead,0
 stingray,0
 blindfold,0
 yearbook,0
-pregnant,1
+pregnant,2
 cowbell,1
 willow,1
 wife,1
-iPad,1
-cliff,1
+iPad,2
+cliff,3
 bread,1
-lily,0
+lily,1
 vegetable,0
 price tag,1
 tooth,1
-Google,1
+Google,2
 video,1
 cabin,1
-ear,1
+ear,2
 spider,1
 vein,1
-face paint,1
+face paint,2
 puffin,0
 recycling,0
 hourglass,0
@@ -392,7 +392,7 @@ mountain,1
 cab driver,1
 young,1
 dynamite,1
-windmill,1
+windmill,2
 cube,1
 Phineas and Ferb,1
 Milky Way,1
@@ -402,13 +402,278 @@ Madagascar,0
 black,0
 Hercules,0
 knight,1
-shop,1
+shop,2
 Popeye,1
-field,1
-chocolate,1
+field,2
+chocolate,2
 Star Wars,1
 king,1
 cloak,1
 tear,1
 undo,1
 chain,1
+eyeshadow,1
+Hula Hoop,1
+pinwheel,0
+Elsa,0
+brush,2
+line,1
+John Cena,1
+bride,0
+lava lamp,0
+brain,1
+turtle,3
+Chrome,0
+Africa,0
+plunger,1
+cardboard,3
+color-blind,0
+ring,0
+tripod,0
+stomach,2
+chimney,1
+orange,1
+kitchen,1
+ribbon,1
+bottle,2
+Playstation,1
+elephant,1
+nuke,1
+Cat Woman,1
+egg,1
+vanilla,1
+throat,1
+banjo,1
+weather,1
+murderer,1
+Barack Obama,1
+summer,0
+bottle flip,1
+salad,1
+step,1
+silence,1
+grass,1
+beef,1
+traffic,1
+chicken,1
+pin,2
+Gru,1
+feather,1
+waterfall,1
+hexagon,1
+bull,2
+Angry Birds,1
+laptop,0
+JayZ,0
+knee,1
+password,1
+captain,0
+cuckoo,0
+wing,1
+fly swatter,1
+cotton candy,1
+sausage,1
+zigzag,1
+scar,1
+bar,0
+bait,0
+detonate,1
+junk food,1
+complete,1
+catfish,1
+litter box,0
+wave,1
+sunshade,1
+hive,1
+virtual reality,1
+tablet,1
+fast,1
+studio,0
+cola,0
+Stone Age,0
+sick,1
+horsewhip,1
+lake,0
+barbed wire,0
+chihuahua,0
+provoke,1
+scribble,1
+snowflake,2
+pink,1
+trigger,0
+satellite,0
+goblin,1
+ash,1
+coconut,0
+snowball fight,0
+corner,1
+cage,1
+royal,1
+caterpillar,0
+emoji,0
+taxi driver,0
+nest,1
+blender,1
+referee,0
+kettle,0
+root,0
+handshake,1
+chalk,1
+cauldron,2
+west,1
+cut,0
+Lady Gaga,0
+factory,0
+Colosseum,1
+thin,0
+bacon,1
+birthday,1
+study,1
+lotion,1
+smell,1
+tarantula,1
+gummy bear,1
+picnic,1
+mailbox,1
+pot of gold,1
+depressed,1
+Wall-e,1
+seat belt,1
+Mount Rushmore,1
+wrapping,1
+milk,1
+ruler,2
+paint,1
+barcode,1
+sing,0
+lens,0
+Bitcoin,1
+plug,0
+beatbox,0
+belly button,1
+sea,1
+Easter Bunny,1
+shout,1
+lemon,1
+Dumbo,1
+manatee,1
+jelly,1
+pants,0
+florist,0
+racecar,0
+golden egg,1
+abyss,0
+hedgehog,0
+shotgun,0
+icicle,1
+sports,1
+Jesus Christ,1
+rainbow,1
+Jack-o-lantern,1
+explosion,1
+accident,1
+ABBA,1
+wonderland,0
+cheeks,0
+assassin,0
+basement,1
+Russia,1
+clarinet,1
+frown,1
+barber,1
+mayor,1
+Spartacus,1
+China,1
+mosquito,1
+twig,0
+survivor,0
+Olaf,0
+family,0
+rail,0
+booger,1
+flying pig,1
+Sonic,1
+branch,0
+shopping,1
+whistle,0
+breakfast,0
+bathroom,0
+rectangle,0
+swimsuit,1
+foil,1
+Robbie Rotten,1
+fish,1
+beak,0
+prune,0
+notification,0
+mirror,2
+spoon,1
+taco,1
+open,1
+Jackie Chan,0
+powder,0
+lava,1
+gas mask,1
+supermarket,0
+flute,0
+heat,0
+point,1
+wound,0
+mafia,0
+parents,1
+elevator,0
+slingshot,0
+Eiffel tower,0
+Family Guy,1
+sparkles,0
+Velociraptor,0
+tree,0
+toolbox,1
+symphony,0
+chameleon,0
+blimp,1
+tip,1
+reflection,1
+gentle,1
+pill,1
+raindrop,1
+swing,1
+wind,1
+street,1
+massage,1
+Nike,1
+prison,1
+Cuba,1
+harp,0
+Adidas,0
+groom,0
+path,1
+sunflower,1
+keg,1
+tie,1
+spring,0
+alley,0
+bear,1
+old,1
+slide,0
+hug,0
+Bible,1
+Pikachu,1
+bandana,1
+wedding,0
+drum,0
+playground,0
+hair,1
+narwhal,1
+jeans,1
+germ,0
+toe,1
+detective,0
+unibrow,1
+wrestler,1
+tropical,1
+tire,1
+loser,1
+heel,1
+iPhone,1
+Asterix,1

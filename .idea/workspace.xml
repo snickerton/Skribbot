@@ -4,6 +4,7 @@
     <list default="true" id="723e8e15-04c5-4bf7-b474-9f4cf87dfb15" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wordlistFinal.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/wordlistFinal.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlistReadable.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlistReadable.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.wordlist">
+  <component name="RunManager" selected="Python.mousepos">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="skribbot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,8 +117,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.wordlist" />
         <item itemvalue="Python.mousepos" />
+        <item itemvalue="Python.wordlist" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -182,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575506564711</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added more words">
+      <created>1575510151356</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1575510151356</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
