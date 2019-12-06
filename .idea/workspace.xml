@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="723e8e15-04c5-4bf7-b474-9f4cf87dfb15" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/wordlistReadable.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wordlistReadable.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greasemonkey_backup_20191205_234317.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO_HAX.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +51,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mousepos">
+  <component name="RunManager" selected="Python.PRO_HAX">
+    <configuration name="PRO_HAX" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="skribbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PRO_HAX.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="skribbot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,6 +159,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PRO_HAX" />
         <item itemvalue="Python.mousepos" />
         <item itemvalue="Python.wordScraper" />
         <item itemvalue="Python.wordlist" />
@@ -224,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575602938874</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added more words">
+      <created>1575609308157</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1575609308157</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
