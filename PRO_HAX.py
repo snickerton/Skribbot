@@ -31,7 +31,6 @@ filename = 'wordlistFinal.pickle'
 with open(filename, 'rb') as handle:
     wordlist = pickle.load(handle)
 
-del wordlist['pac man']
 
 masterArr = [[] for x in range(30)]
 # print(masterArr)

@@ -51,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PRO_HAX">
+  <component name="RunManager" selected="Python.wordScraper">
     <configuration name="PRO_HAX" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="skribbot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,8 +159,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PRO_HAX" />
         <item itemvalue="Python.wordScraper" />
+        <item itemvalue="Python.PRO_HAX" />
         <item itemvalue="Python.mousepos" />
         <item itemvalue="Python.wordlist" />
         <item itemvalue="Python.main" />
@@ -262,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575612410829</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added more words">
+      <created>1575632309623</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1575632309623</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,8 +291,8 @@
     <MESSAGE value="Add occurences counting, if drawer occurences is 0, if chosen it is 1" />
     <MESSAGE value="Added occurrence counting for realsies now by tracking sessions and when you're kicked. Also new final wordlist" />
     <MESSAGE value="Cleaned up file sys, added final wordlist readable and such" />
-    <MESSAGE value="Added more words" />
     <MESSAGE value="DUDE IT WORKS" />
-    <option name="LAST_COMMIT_MESSAGE" value="DUDE IT WORKS" />
+    <MESSAGE value="Added more words" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more words" />
   </component>
 </project>
