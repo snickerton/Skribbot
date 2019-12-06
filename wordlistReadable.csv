@@ -32,7 +32,7 @@ broomstick,0
 notepad,0
 Harry Potter,0
 casino,0
-DNA,0
+DNA,1
 continent,0
 gummy,0
 finger,0
@@ -76,7 +76,7 @@ vortex,0
 puddle,0
 anvil,0
 key,2
-cheek,0
+cheek,1
 tattoo,0
 Garfield,0
 manhole,0
@@ -84,7 +84,7 @@ nugget,0
 pub,0
 corpse,0
 lamb,0
-ocean,0
+ocean,1
 ant,0
 screen,0
 player,0
@@ -99,7 +99,7 @@ apple seed,0
 landlord,0
 bat,3
 world,0
-night,0
+night,1
 vaccine,0
 present,0
 sweater,1
@@ -109,7 +109,7 @@ potato,0
 hammer,0
 hen,1
 six pack,0
-bow,1
+bow,2
 surfboard,0
 credit card,0
 well,0
@@ -128,7 +128,7 @@ carpet,0
 blueberry,0
 Hulk,0
 floppy disk,0
-stoned,0
+stoned,1
 Discord,0
 McDonalds,0
 underground,0
@@ -162,7 +162,7 @@ apple pie,0
 map,1
 Atlantis,0
 fog,1
-Minion,0
+Minion,1
 clover,0
 school,1
 blue,1
@@ -177,10 +177,10 @@ shipwreck,0
 quilt,0
 firehouse,1
 cap,0
-fly,1
+fly,2
 SpongeBob,0
 door,0
-frame,1
+frame,2
 tower,0
 tomb,0
 belt,0
@@ -196,7 +196,7 @@ eyebrow,1
 giraffe,0
 coral,0
 nosebleed,0
-bus stop,1
+bus stop,2
 Gumball,0
 leprechaun,0
 Kermit,0
@@ -274,9 +274,9 @@ monk,0
 zoo,0
 Usain Bolt,0
 dolphin,0
-dream,4
+dream,5
 Egypt,0
-Mr. Meeseeks,0
+Mr. Meeseeks,1
 poppy,1
 elbow,0
 board,0
@@ -315,20 +315,20 @@ telephone,0
 inside,0
 Tetris,0
 biscuit,0
-nail polish,0
+nail polish,1
 dandruff,1
 ice cream truck,0
 forest,0
 Mexico,0
 teacher,0
-cactus,2
+cactus,3
 overweight,0
 crucible,0
 Daffy Duck,1
 treasure,0
 bowling,0
 fruit,0
-fern,0
+fern,1
 house,0
 yellow,0
 waffle,0
@@ -350,11 +350,11 @@ electricity,0
 pan,0
 north,0
 pinky,0
-forehead,0
+forehead,1
 stingray,0
 blindfold,0
 yearbook,0
-pregnant,2
+pregnant,3
 cowbell,1
 willow,1
 wife,1
@@ -363,7 +363,7 @@ cliff,3
 bread,1
 lily,1
 vegetable,0
-price tag,1
+price tag,2
 tooth,1
 Google,2
 video,1
@@ -383,7 +383,7 @@ snowman,1
 gravedigger,1
 search,1
 comb,1
-error,1
+error,2
 garage,0
 sneeze,0
 tiny,0
@@ -425,7 +425,7 @@ brain,1
 turtle,3
 Chrome,0
 Africa,0
-plunger,1
+plunger,2
 cardboard,3
 color-blind,0
 ring,0
@@ -436,7 +436,7 @@ orange,1
 kitchen,1
 ribbon,1
 bottle,2
-Playstation,1
+Playstation,2
 elephant,1
 nuke,1
 Cat Woman,1
@@ -448,7 +448,7 @@ weather,1
 murderer,1
 Barack Obama,1
 summer,0
-bottle flip,1
+bottle flip,2
 salad,1
 step,1
 silence,1
@@ -488,7 +488,7 @@ hive,1
 virtual reality,1
 tablet,1
 fast,1
-studio,0
+studio,1
 cola,0
 Stone Age,0
 sick,1
@@ -507,7 +507,7 @@ ash,1
 coconut,0
 snowball fight,0
 corner,1
-cage,1
+cage,2
 royal,1
 caterpillar,0
 emoji,0
@@ -520,7 +520,7 @@ root,0
 handshake,1
 chalk,1
 cauldron,2
-west,1
+west,2
 cut,0
 Lady Gaga,0
 factory,0
@@ -545,7 +545,7 @@ milk,1
 ruler,2
 paint,1
 barcode,1
-sing,0
+sing,1
 lens,0
 Bitcoin,1
 plug,0
@@ -567,9 +567,9 @@ hedgehog,0
 shotgun,0
 icicle,1
 sports,1
-Jesus Christ,1
+Jesus Christ,2
 rainbow,1
-Jack-o-lantern,1
+Jack-o-lantern,2
 explosion,1
 accident,1
 ABBA,1
@@ -577,17 +577,17 @@ wonderland,0
 cheeks,0
 assassin,0
 basement,1
-Russia,1
+Russia,2
 clarinet,1
 frown,1
 barber,1
 mayor,1
 Spartacus,1
 China,1
-mosquito,1
+mosquito,2
 twig,0
 survivor,0
-Olaf,0
+Olaf,1
 family,0
 rail,0
 booger,1
@@ -603,7 +603,7 @@ swimsuit,1
 foil,1
 Robbie Rotten,1
 fish,1
-beak,0
+beak,1
 prune,0
 notification,0
 mirror,2
@@ -613,7 +613,7 @@ open,1
 Jackie Chan,0
 powder,0
 lava,1
-gas mask,1
+gas mask,2
 supermarket,0
 flute,0
 heat,0
@@ -644,7 +644,7 @@ massage,1
 Nike,1
 prison,1
 Cuba,1
-harp,0
+harp,1
 Adidas,0
 groom,0
 path,1
@@ -659,7 +659,7 @@ slide,0
 hug,0
 Bible,1
 Pikachu,1
-bandana,1
+bandana,2
 wedding,0
 drum,0
 playground,0
@@ -677,3 +677,88 @@ loser,1
 heel,1
 iPhone,1
 Asterix,1
+red carpet,1
+skull,1
+meerkat,0
+bakery,1
+nose ring,2
+truck,1
+Superman,1
+bowl,1
+island,1
+console,1
+watch,1
+piano,1
+winner,0
+eggplant,0
+comet,0
+mascot,0
+failure,1
+beach,1
+Pokemon,1
+walk,1
+axe,1
+Kirby,1
+tennis,2
+apartment,1
+melt,1
+record,1
+Shrek,1
+neighborhood,0
+Oreo,0
+homeless,1
+square,1
+Lion King,1
+arch,0
+coin,0
+wealth,0
+switch,1
+lyrics,1
+dessert,0
+drink,0
+pine cone,0
+protest,0
+leash,1
+jail,1
+scream,1
+notebook,1
+canyon,1
+Italy,1
+church,1
+whisk,1
+magnet,0
+punk,0
+warehouse,0
+antivirus,0
+coast,1
+safe,1
+Mercedes,1
+lipstick,1
+angel,1
+penny,1
+patio,0
+dragonfly,0
+Asia,1
+sprinkler,0
+onion,1
+nun,0
+Chinatown,0
+heart,1
+snowboard,1
+Gandhi,1
+knife,1
+ponytail,1
+Happy Meal,1
+jalapeno,1
+cannon,0
+stove,0
+lock,1
+meatball,1
+nail,1
+poodle,1
+shell,0
+clock,0
+earthquake,0
+hell,0
+poke,0
+highway,0
