@@ -31,6 +31,7 @@ filename = 'wordlistFinal.pickle'
 with open(filename, 'rb') as handle:
     wordlist = pickle.load(handle)
 
+
 masterArr = [[] for x in range(30)]
 # print(masterArr)
 for k in wordlist.keys():
@@ -68,9 +69,31 @@ bbox = win32gui.GetWindowRect(hwin)
 
 while(True):
     currWord = input("Enter word:")
+    if currWord.startswith("The word was "):
+        word = currWord[13:len(currWord)]
+        lastWordSaved = word + "| " + str(datetime.datetime.now())
+        print("New word found: |" + lastWordSaved)
+        wordlist[word] = wordlist.get(word, 0) + 1
+        print("\tPrev Count: ", wordlist[word] - 1, " | New Count: ", wordlist[word])
+        print("Saving to ", filename, ": ", str(wordlist))
+        with open(filename, 'wb') as handle:
+            pickle.dump(wordlist, handle, protocol=pickle.HIGHEST_PROTOCOL)
+
+        # recreate masterlist
+        masterArr = [[] for x in range(30)]
+        # print(masterArr)
+        for k in wordlist.keys():
+            # print(k)
+            masterArr[len(k)].append((k, wordlist[k]))
+
+        # sort by most common occurence (second index is occurence)
+        for x in masterArr:
+            x.sort(key=lambda x: x[1], reverse=True)
+
+        continue;
     wordsOfLen = masterArr[len(currWord)]
-    print(wordsOfLen)
+    print("Word length is: ", len(currWord))
     regex = re.compile(currWord.replace("_", "."))
     newlist = list(filter(lambda x: regex.match(x[0]), wordsOfLen))
-
     print(newlist)
+

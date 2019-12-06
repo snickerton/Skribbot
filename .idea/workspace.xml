@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="723e8e15-04c5-4bf7-b474-9f4cf87dfb15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Greasemonkey_backup_20191205_234317.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO_HAX.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO_HAX.py" beforeDir="false" afterPath="$PROJECT_DIR$/PRO_HAX.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordlistFinal.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/wordlistFinal.pickle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -160,8 +160,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.PRO_HAX" />
-        <item itemvalue="Python.mousepos" />
         <item itemvalue="Python.wordScraper" />
+        <item itemvalue="Python.mousepos" />
         <item itemvalue="Python.wordlist" />
         <item itemvalue="Python.main" />
       </list>
@@ -255,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575609308157</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="DUDE IT WORKS">
+      <created>1575612410829</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1575612410829</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,6 +285,7 @@
     <MESSAGE value="Added occurrence counting for realsies now by tracking sessions and when you're kicked. Also new final wordlist" />
     <MESSAGE value="Cleaned up file sys, added final wordlist readable and such" />
     <MESSAGE value="Added more words" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added more words" />
+    <MESSAGE value="DUDE IT WORKS" />
+    <option name="LAST_COMMIT_MESSAGE" value="DUDE IT WORKS" />
   </component>
 </project>
