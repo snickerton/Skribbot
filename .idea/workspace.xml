@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="723e8e15-04c5-4bf7-b474-9f4cf87dfb15" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordScraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/wordScraper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wordlistFinal.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/wordlistFinal.pickle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -282,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575645218911</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Added more words">
+      <created>1575647281474</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1575647281474</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

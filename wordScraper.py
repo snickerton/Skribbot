@@ -130,7 +130,10 @@ while(True):
                 #     print("Logging occurence: ", word)
                 #     wordlist[word] = wordlist[word]+1
 
-        print("Saving to ",filename, ": ", str(wordlist))
+        formattedList = [(k, wordlist[k]) for k in wordlist.keys()]
+        formattedList.sort(key=lambda x:x[1],reverse=True)
+
+        print("Saving to ",filename, ": ", str(formattedList))
         with open(filename, 'wb') as handle:
             pickle.dump(wordlist, handle, protocol=pickle.HIGHEST_PROTOCOL)
         time.sleep(12)
