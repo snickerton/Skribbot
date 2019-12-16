@@ -31,7 +31,6 @@ filename = 'wordlistFinal.pickle'
 with open(filename, 'rb') as handle:
     wordlist = pickle.load(handle)
 
-del wordlist['Yin And Yang']
 
 # with open(filename, 'wb') as handle:
 #     pickle.dump(wordlist, handle, protocol=pickle.HIGHEST_PROTOCOL)

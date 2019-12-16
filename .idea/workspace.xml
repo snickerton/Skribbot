@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="723e8e15-04c5-4bf7-b474-9f4cf87dfb15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AutomatedGuesser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ref/Untitled.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PRO_HAX.py" beforeDir="false" afterPath="$PROJECT_DIR$/PRO_HAX.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wordlistFinal.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/wordlistFinal.pickle" afterDir="false" />
@@ -52,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PRO_HAX">
+  <component name="RunManager" selected="Python.wordScraper">
     <configuration name="AutomatedGuesser" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="skribbot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,9 +160,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.wordScraper" />
         <item itemvalue="Python.PRO_HAX" />
         <item itemvalue="Python.AutomatedGuesser" />
-        <item itemvalue="Python.wordScraper" />
         <item itemvalue="Python.mousepos" />
         <item itemvalue="Python.wordlist" />
       </list>
@@ -305,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575671860631</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Added more words, changed key to escape so you can copy paste answers">
+      <created>1575679942684</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1575679942684</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -329,6 +336,7 @@
     <MESSAGE value="Cleaned up file sys, added final wordlist readable and such" />
     <MESSAGE value="DUDE IT WORKS" />
     <MESSAGE value="Added more words" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added more words" />
+    <MESSAGE value="Added more words, changed key to escape so you can copy paste answers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more words, changed key to escape so you can copy paste answers" />
   </component>
 </project>
